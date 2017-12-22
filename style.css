@@ -1,0 +1,50 @@
+body {
+  background: #2f558e url(img/bg.png) repeat 0 0;
+  background-size: 400px auto;
+  font-family: sans-serif;
+}
+img {
+  display: block;
+  width: 165px;
+  margin: 100px auto;
+}
+
+h1 {
+  color: white;
+  margin: 0 50px 50px;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.wrapper {
+  width: 50%;
+  margin: 5% 35%;
+}
+
+.wrapper input {
+  border-style: solid 10px;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+.wrapper select {
+  border-style: solid 10px;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 16px;  
+}
+.wrapper button {
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 16px;
+  background-color: lightgrey;
+  color:black;
+}
+
+#output {
+  text-align: center;
+  color:white;
+  letter-spacing: 1px;
+  font-size: 20px;
+}
